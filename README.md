@@ -1,1 +1,1 @@
-# Zig langage syntax for highlight.js
+# Zig language syntax for highlight.js
