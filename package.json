@@ -1,0 +1,27 @@
+{
+  "name": "highlightjs-zig",
+  "version": "0.9.0",
+  "description": "Zig language syntax for highlight.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk2sat/highlightjs-zig.git"
+  },
+  "keywords": [
+    "ziglang",
+    "highlight.js",
+    "highlightjs"
+  ],
+  "author": "sksat <sksat@sksat.net> (https://sksat.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sk2sat/highlightjs-zig/issues"
+  },
+  "homepage": "https://github.com/sk2sat/highlightjs-zig"
+}
